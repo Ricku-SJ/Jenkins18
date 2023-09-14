@@ -1,5 +1,11 @@
 package com.github.Report;
 
-public class FacebookLogin {
+import org.testng.annotations.Test;
 
+public class FacebookLogin {
+@Test
+public void create()
+{
+	
+}
 }
