@@ -6,6 +6,6 @@ public class FacebookLogin {
 @Test
 public void create()
 {
-	
+	System.out.println("Rj");
 }
 }
